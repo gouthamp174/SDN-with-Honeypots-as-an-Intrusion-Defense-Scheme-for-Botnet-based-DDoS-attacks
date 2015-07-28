@@ -1,0 +1,14 @@
+
+**************************************************************
+A SDN Oriented DDoS  Detection Scheme for Botnet Based Attacks
+
+Group ID: 18
+
+Goutham Prasanna
+Nitish Gupta
+Sohail Virani
+
+Project Advisor: Dr. Younghee Park
+
+****************************XXX*******************************
+
